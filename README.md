@@ -21,4 +21,5 @@ Funnbot: *I sexually identify as an apache attack helicopter, if you can't deal 
 4 carbonitex: (matt or snazzah specifically plz) call me bb we need to get oof-rodab-despacito-chan up on there stat  
 4 discordbots: hey im aether and i like bewbies c:  
 4 discordbotlist: hey im aether and you know who the fuck I am, damn right motherfucker I'm aether and I like bewbies
+
 4 discord: partner ASAP pls
