@@ -3,6 +3,8 @@ var dicsord = require("eris");
 var token = fs.readFileSync("./token.txt", "utf8");
 var clint = new dicsord(token);
 
+var validprefixies = ["!","#","-",".","~","/","!","_","=","[","]","<",">"];
+
 var commnds = [
     {
         name:"help",
@@ -19,6 +21,10 @@ clint.on("ready", ()=>{
 });
 
 clint.on("messageCreate", (msg)=>{
+    if (msg.author.bot) {
+        return; // NO THANKS !!! //
+    }
+
     var args = msg.content.split(" ");
 
     function respond(m) {
@@ -43,6 +49,19 @@ clint.on("messageCreate", (msg)=>{
             } else {
                 respond("Invalid prefix please use "+cmd.prefix.join(" or ")+" for "+cmd.name);
             }
+        }
+    }
+
+    if (run.length == 0) {
+        var bad = false;
+        for (var prefixie in validprefixies) {
+            var prefix = validprefixies[prefixie];
+            if (msg.content.startsWith(prefix)) {
+                bad = true;
+            }
+        }
+        if (bad) {
+            respond("invalid command try help for list of command")
         }
     }
 
