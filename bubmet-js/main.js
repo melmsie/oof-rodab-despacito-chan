@@ -3,7 +3,7 @@ var dicsord = require("eris");
 var token = fs.readFileSync("./token.txt", "utf8");
 var clint = new dicsord(token);
 
-var validprefixies = ["!","#","-",".","~","/","!","_","=","[","]","<",">"];
+var validprefixies = ["!","#","-",".","~","/","!","_","=","[","]",">"];
 
 var commnds = [
     {
