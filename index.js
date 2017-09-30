@@ -1,1 +1,1 @@
-return 'despacito-chan yamete kudasai'
+return console.log('oh yes daddy')
