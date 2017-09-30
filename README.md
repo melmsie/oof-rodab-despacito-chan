@@ -11,6 +11,7 @@ Kodehawa: *hello my name is kode and i made mantaro or soemthng no biggie smol b
 bubbie: *oi matey im from lundun*  
 Gedyy: profezionol python2 dev
 Hansen: *im aeth but stupider*
+Will: *im hansen but worse*
 
 **please add your name or edit your description to be accurate kthxbainohomo**
   
