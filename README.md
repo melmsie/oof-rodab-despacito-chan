@@ -12,6 +12,7 @@ bubbie: *oi matey im from lundun*
 Gedyy: profezionol python2 dev
 Hansen: *im aeth but stupider*
 Will: *im hansen but worse*
+Funnbot: *I sexually identify as an apache attack helicopter, if you can't deal with that when please leave me alone i dont want any hate*
 
 **please add your name or edit your description to be accurate kthxbainohomo**
   
