@@ -17,6 +17,6 @@ Will: *im hansen but worse*
   
   
 4 da plebs: join our server u dumb cunt https://discord.gg/eR8PnuH  
-4 carbonitex: (matt or snazzah specifically plz) call me bb we need to get oof-rodab-despacito-chan up on there stat
+4 carbonitex: (matt or snazzah specifically plz) call me bb we need to get oof-rodab-despacito-chan up on there stat  
 4 discordbots: hey im aether and i like bewbies c:  
 4 discordbotlist: hey im aether and you know who the fuck I am, damn right motherfucker I'm aether and I like bewbies
