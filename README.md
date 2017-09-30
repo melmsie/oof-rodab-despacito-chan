@@ -15,3 +15,6 @@ Will: *im hansen but worse*
 
 **please add your name or edit your description to be accurate kthxbainohomo**
   
+  
+4 da plebs: join our server u dumb cunt https://discord.gg/eR8PnuH
+  
